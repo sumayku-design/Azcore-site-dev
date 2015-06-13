@@ -1,2 +1,2 @@
 #Dev website Azcore 
-website feature Experiment fo https://az-core.com
+website feature Experiment fo http://www.az-core.com/
